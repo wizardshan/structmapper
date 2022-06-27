@@ -410,6 +410,8 @@ github.com/vmihailenco/msgpack/v4 v4.3.12/go.mod h1:gborTTJjAo/GWTqqRjrLCn9pgNN+
 github.com/vmihailenco/tagparser v0.1.1/go.mod h1:OeAg3pn3UbLjkWt+rN9oFYB6u/cQgqMEUPoW2WPyhdI=
 github.com/wizardshan/structmapper v0.0.1 h1:GZP3N8o/GOGnfGShUIKcC6pwiCBpmiokY2H2jWYqYPM=
 github.com/wizardshan/structmapper v0.0.1/go.mod h1:/jxKS3+vhqDpKLnjg0k0NEc7PgVi82DmNzUUnSlRk/4=
+github.com/wizardshan/structmapper v0.0.2 h1:dJ8n3yPRdP/Av0VdgnOyEUSsGS3LB/Px0KIM2N9X77g=
+github.com/wizardshan/structmapper v0.0.2/go.mod h1:/jxKS3+vhqDpKLnjg0k0NEc7PgVi82DmNzUUnSlRk/4=
 github.com/yuin/goldmark v1.1.25/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yuin/goldmark v1.1.27/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yuin/goldmark v1.1.32/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
