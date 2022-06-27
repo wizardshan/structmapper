@@ -2,6 +2,10 @@
 
 structmapper is tool to auto generate struct to struct mapping function
 
+```sh
+$ go get -u github.com/wizardshan/structmapper
+```
+
 ## Features
 * mapper from struct to struct with same name
 * mapper from slice to slice
