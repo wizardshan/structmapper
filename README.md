@@ -3,7 +3,7 @@
 structmapper is tool to auto generate struct to struct mapping function
 
 ```sh
-$ go get -u github.com/wizardshan/structmapper
+go get -u github.com/wizardshan/structmapper
 ```
 
 ## Features
@@ -12,8 +12,8 @@ $ go get -u github.com/wizardshan/structmapper
 * mapper from method to field with same name
 
 ```go
-//go:generate go run ../structmapper.go -toName User -fromName User -toPath ./response  -fromPath ./domain -toVar resp -fromVar dom
-//go:generate go run ../structmapper.go -toName Orders -fromName Orders -toPath ./response  -fromPath ./domain -toVar resp -fromVar dom
+//go:generate go run github.com/wizardshan/structmapper -toName User -fromName User -toPath ./response  -fromPath ./domain -toVar resp -fromVar dom
+//go:generate go run github.com/wizardshan/structmapper -toName Orders -fromName Orders -toPath ./response  -fromPath ./domain -toVar resp -fromVar dom
 
 
 package response
